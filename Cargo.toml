@@ -1,0 +1,8 @@
+[package]
+name = "tera"
+version = "0.0.1"
+edition = "2024"
+
+[lib]
+name = "vector_db"
+path = "src/vector_db/vector_db.rs"
